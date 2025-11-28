@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Smart Home Energy Monitor",
+    "student": "Student A",
+    "image": "/images/project1.svg",
+    "description": "A web dashboard that monitors home electricity usage in real time."
+  },
+  {
+    "id": 2,
+    "title": "AI-Based Plant Disease Detector",
+    "student": "Student B",
+    "image": "/images/project2.svg",
+    "description": "A machine learning model that detects plant leaf diseases from photos."
+  },
+  {
+    "id": 3,
+    "title": "Campus Navigation App",
+    "student": "Student C",
+    "image": "/images/project3.svg",
+    "description": "A mobile-friendly app that helps new students navigate the campus."
+  },
+  {
+    "id": 4,
+    "title": "Voice Controlled Wheelchair",
+    "student": "Student D",
+    "image": "/images/project4.svg",
+    "description": "A prototype wheelchair that responds to simple voice commands."
+  },
+  {
+    "id": 5,
+    "title": "Online Exam Proctoring Tool",
+    "student": "Student E",
+    "image": "/images/project5.svg",
+    "description": "A browser-based proctoring system with face and tab activity tracking."
+  },
+  {
+    "id": 6,
+    "title": "Smart Irrigation System",
+    "student": "Student F",
+    "image": "/images/project6.svg",
+    "description": "An IoT project that waters plants automatically based on soil moisture."
+  }
+]
